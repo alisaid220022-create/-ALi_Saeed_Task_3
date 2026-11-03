@@ -392,7 +392,7 @@
     .trip-image {
         position: relative;
         .background {
-        max-width: 100%;
+        width: 100%;
         }
         .icon {
         position: absolute;
@@ -670,6 +670,7 @@
         line-height: 52px;
         }
         .trip-image {
+            width: 100%;
         .icon {
             width: 60px;
             height: 60px;
